@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OmniseekerPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0acd5efde8bc992699d87c02c0818a2838087fad")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmniseekerPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmniseekerPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

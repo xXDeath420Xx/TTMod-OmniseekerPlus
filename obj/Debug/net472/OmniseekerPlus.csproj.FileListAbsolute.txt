@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\OmniseekerPlus\bin\Debug\net472\Omniseeker
 C:\Users\crawf\TechtonicaMods\NewMods\OmniseekerPlus\bin\Debug\net472\OmniseekerPlus.pdb
 C:\Users\crawf\TechtonicaMods\NewMods\OmniseekerPlus\obj\Debug\net472\OmniseekerPlus.dll
 C:\Users\crawf\TechtonicaMods\NewMods\OmniseekerPlus\obj\Debug\net472\OmniseekerPlus.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\OmniseekerPlus\obj\Debug\net472\OmniseekerPlus.sourcelink.json
